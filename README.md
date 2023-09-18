@@ -1,2 +1,2 @@
-# REST-api
+# Recipee REST api
 RESTful api files
